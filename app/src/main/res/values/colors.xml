@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="purple1">#5a63b1</color>
+    <color name="preto">#FF000000</color>
+    <color name="lar1">#b13a1a</color>
+    <color name="lar2">#db6328</color>
+    <color name="lar3">#f16b6a</color>
+    <color name="lar4">#f38a63</color>
+    <color name="azu1">#c8e4ee</color>
+    <color name="azu2">#e6f0f3</color>
+    <color name="branco">#FFFFFFFF</color>
 </resources>

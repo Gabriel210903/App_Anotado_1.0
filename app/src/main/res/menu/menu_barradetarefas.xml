@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--Cria o botão de adicionar-->
+    <item
+        android:id="@+id/btAdd"
+        android:title="adicionar"
+        android:icon="@drawable/ic_adicionar"
+        app:showAsAction="ifRoom"
+        />
+
+    <!--Cria a lista de botões
+    <item
+        android:id="@+id/btConf"
+        android:title="Configurações"
+        app:showAsAction="never"
+        />
+
+    Item com submenus
+    <item
+        android:id="@+id/btOpt3"
+        android:title="App"
+        app:showAsAction="never"
+        >
+        <menu>
+
+            Cada novo item é um Sub-menu
+            <item android:id="@+id/btSub1"
+                android:title="Sobre o app"/>
+            <item android:id="@+id/btSub2"
+                android:title="Suporte Anotado"/>
+        </menu>
+    </item> -->
+</menu>
